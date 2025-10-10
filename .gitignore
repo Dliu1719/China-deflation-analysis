@@ -1,0 +1,63 @@
+# ================================
+# Python / Jupyter / Data Project
+# ================================
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.DS_Store
+*~
+
+# Data and output cache
+data/raw/
+data/interim/
+*.csv
+*.tsv
+*.sav
+*.dta
+
+# Large generated files
+outputs/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Reports and intermediate exports
+*.html
+*.rds
+
+# Ignore notebook autosaves
+*.ipynb_autosave
+
+# OS and editor files
+Thumbs.db
+.DS_Store
+Icon?
+ehthumbs.db
+*.xlsx
+
+# ================================
+# Exceptions (keep these tracked)
+# ================================
+!China_Deflation_Analysis.pdf
+!slides.ipynb
+!README.md
+!LICENSE
