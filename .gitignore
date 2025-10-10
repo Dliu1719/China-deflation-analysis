@@ -10,7 +10,7 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Virtual environment
+# Virtual environment folders
 .venv/
 env/
 venv/
@@ -25,26 +25,27 @@ ENV/
 *~
 
 # Data and output cache
-data/raw/
-data/interim/
+data/
+outputs/
+figures/
+
+# Ignore all Excel files
+*.xls
+*.xlsx
+
+# Large generated or derived files
 *.csv
 *.tsv
 *.sav
 *.dta
-
-# Large generated files
-outputs/
-figures/
+*.rds
+*.html
 *.png
 *.jpg
 *.jpeg
 *.svg
 
-# Reports and intermediate exports
-*.html
-*.rds
-
-# Ignore notebook autosaves
+# Notebook autosaves
 *.ipynb_autosave
 
 # OS and editor files
@@ -52,12 +53,11 @@ Thumbs.db
 .DS_Store
 Icon?
 ehthumbs.db
-*.xlsx
 
 # ================================
 # Exceptions (keep these tracked)
 # ================================
-!China_Deflation_Analysis.pdf
 !slides.ipynb
+!China_Deflation_Analysis.pdf
 !README.md
 !LICENSE
