@@ -11,9 +11,8 @@ The project integrates quantitative analysis in Python (via Jupyter Notebook) wi
 |------|--------------|
 | `slides.ipynb` | Jupyter Notebook containing data exploration, visualizations, and regression analysis. |
 | `China_Deflation_Analysis.pdf` | Final presentation summarizing key findings. |
-| `M2.xlsx` | Monthly M2 (broad money) data. |
-| `CPI_2016_2025.xlsx` | CPI data for 2016–2025. |
-| `M2_CPI_PPI.xlsx` | Combined dataset for visualization and correlation analysis. |
+| `China_Deflation_Policy_Memo_and_Evidence.pdf` | Policy memo on China's post-pandemic deflation, with supporting data and charts (M2/CPI/PPI, consumer confidence, youth unemployment). |
+| `figure1_m2_cpi.png` | Key chart: M2 growth versus CPI, 2016–2025. |
 | `LICENSE` | MIT License for code and repository contents. |
 
 ---
@@ -39,5 +38,5 @@ The project integrates quantitative analysis in Python (via Jupyter Notebook) wi
 ## 📜 License
 
 - **Code and datasets:** MIT License — free to use, modify, and distribute with attribution.  
-- **Report (`China_Deflation_Analysis.pdf`):**  
+- **Reports (`China_Deflation_Analysis.pdf`, `China_Deflation_Policy_Memo_and_Evidence.pdf`):**  
   Shared under the [Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
