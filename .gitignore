@@ -24,6 +24,13 @@ ENV/
 *.DS_Store
 *~
 
+# LaTeX build artifacts
+*.aux
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
 # Data and output cache
 data/
 outputs/
