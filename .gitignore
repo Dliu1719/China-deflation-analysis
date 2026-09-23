@@ -59,8 +59,12 @@ ehthumbs.db
 # ================================
 !slides.ipynb
 !China_Deflation_Analysis.pdf
-!China_Deflation_Policy_Memo.pdf
-!China_Deflation_Policy_Memo.tex
 !figure1_m2_cpi.png
 !README.md
 !LICENSE
+
+# ================================
+# Kept local only — removed from public repo
+# ================================
+China_Deflation_Policy_Memo.pdf
+China_Deflation_Policy_Memo.tex
